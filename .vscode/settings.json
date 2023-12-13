@@ -2,7 +2,12 @@
   "files.associations": {
     "*.ejs": "html",
     ".env": "dotenv",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "vector": "cpp",
+    "xhash": "cpp",
+    "xtree": "cpp",
+    "unordered_set": "cpp",
+    "utility": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }
