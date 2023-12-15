@@ -7,7 +7,9 @@
     "xhash": "cpp",
     "xtree": "cpp",
     "unordered_set": "cpp",
-    "utility": "cpp"
+    "utility": "cpp",
+    "random": "cpp",
+    "xutility": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }
