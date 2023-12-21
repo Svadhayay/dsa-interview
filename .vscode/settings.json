@@ -9,7 +9,12 @@
     "unordered_set": "cpp",
     "utility": "cpp",
     "random": "cpp",
-    "xutility": "cpp"
+    "xutility": "cpp",
+    "algorithm": "cpp",
+    "new": "cpp",
+    "chrono": "cpp",
+    "limits": "cpp",
+    "valarray": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }

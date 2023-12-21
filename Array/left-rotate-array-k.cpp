@@ -7,7 +7,7 @@ using namespace std;
 
 vector<int> rotateArray(vector<int> arr, int k)
 {
-    k = k % arr.size();
+    k = k % arr.size(); // if arr size 5 then 7 rotation = 5+2
     reverse(arr.begin(), arr.begin() + k);
     reverse(arr.begin() + k, arr.end());
     reverse(arr.begin(), arr.end());
